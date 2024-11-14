@@ -1,0 +1,7 @@
+torch==1.11.0           # or latest version compatible with your environment
+torchvision==0.12.0     # for any additional image processing (if needed)
+numpy==1.21.2
+pandas==1.3.3
+scikit-learn==0.24.2    # for data preprocessing and metrics
+matplotlib==3.4.3       # for plotting and visualization
+seaborn==0.11.2         # for advanced visualization like confusion matrices
